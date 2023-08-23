@@ -1,0 +1,9 @@
+Public class Light {
+public Light(){}
+public void on(){
+    System.out.println("Lights is on");
+}
+public void off(){
+    System.out.println("Lights is off");
+}
+}
